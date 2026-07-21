@@ -407,11 +407,14 @@ cat << 'EOF' | envsubst > "$SCRIPT_DIR/config.json"
         "ip": "0.0.0.0",
         "udp": true,
         "auth": "password",
-        "accounts": [
+       "accounts": [
           {
-			"user": "${socksUser}",
-            "pass": "${socksPasw}"
-            
+            "user": "iOA30W",
+            "pass": "KOkwU93grUk9Ii4i"
+          },
+          {
+            "user": "xaVxa6",
+            "pass": "t021QEWrUIzXyIcP"
           }
         ]
       }
